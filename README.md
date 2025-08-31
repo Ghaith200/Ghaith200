@@ -31,15 +31,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Abdullah Ghaith from Egypt<br><br>- 🔭 I’m working as mobile application developer <br>- 📚 I'm currently learning Java/kotlin<br>- ⚡ In my free time I learn about different technologies</p>
+<p align="center">I'm Abdullah Ghaith from Egypt<br><br>- 🔭 I’m working as mobile application developer <br>- 📚 I'm currently learning Java/kotlin<br>- ⚡ In my free time I learn about different technologies</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
@@ -81,4 +81,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghaith200&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Ghaith200&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 ###

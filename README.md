@@ -31,15 +31,15 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="center">I'm Abdullah Ghaith from Egypt<br><br>- 🔭 I’m working as mobile application developer <br>- 📚 I'm currently learning Java/kotlin<br>- ⚡ In my free time I learn about different technologies</p>
+<p align="left">I'm Abdullah Ghaith from Egypt<br><br>- 🔭 I’m working as mobile application developer <br>- 📚 I'm currently learning Java/kotlin<br>- ⚡ In my free time I learn about different technologies</p>
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 

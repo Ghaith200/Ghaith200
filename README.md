@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Abdullah Ghaith from Egypt<br><br>- 🔭 I’m working as mobile application developer <br>- 📚 I'm currently learning Java/kotlin<br>- ⚡ In my free time I learn about different technologies</p>
+<p align="left">I'm Abdullah Ghaith from Egypt<br><br>- 🔭 I’m working as a Mobile App Developer <br>- 📚 I'm currently learning NodeJs backend development <br>- ⚡ In my free time I learn about different technologies</p>
 
 ###
 

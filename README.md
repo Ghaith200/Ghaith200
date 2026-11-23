@@ -1,78 +1,103 @@
+ <div align="center">
+
+# Abdullah Ghaith
+
+### Software Engineer · Flutter Developer · Frontend Developer
+
+Building digital products through thoughtful design and modern engineering.
+
+<p>
+  <a href="https://www.linkedin.com/in/abdullah-ghaith/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/201018964256">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Ghaith200&style=for-the-badge&color=6C63FF" alt="Profile views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Abdullah Ghaith**, a Software Engineer from Egypt with 4 years of experience in software development.
+
+I enjoy turning ideas into practical, well-designed digital products. My main focus is building cross-platform mobile applications and modern web experiences, with a strong interest in UI/UX design and product development.
+
+- 📱 Specialized in **Flutter & Cross-Platform Mobile Development**.
+- 🌐 Building modern web applications with **React and Next.js**.
+- 🎨 Designing user experiences and interfaces using **Figma**.
+- 🔌 Experienced in API integration, payment gateways, maps, and third-party services.
+- 🚀 Interested in product development, scalable solutions, and emerging technologies.
+
+I believe great software is not just about writing code — it's about solving problems and creating experiences people enjoy using.
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,apple" alt="Mobile technologies" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma,docker" alt="Backend technologies" />
+</p>
+
+### UI/UX & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,vscode,linux" alt="Development tools" />
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Links |
+|---|---|---|
+| **Super Drive** | Ride-hailing mobile application. | [Google Play](https://play.google.com/store/apps/details?id=com.Superdrive.app) · [App Store](https://apps.apple.com/eg/app/super-drive-egypt/id6763921464) · [Website](http://superdrivee.com) |
+| **Green Car** | Mobile application project. | [Google Play](https://play.google.com/store/apps/details?id=com.wb.greencar) · [App Store](https://apps.apple.com/eg/app/green-car-app/id6740742902) · [Website](https://greencar.app/en) |
+| **Aura Plus** | Digital product project. | [Website](https://auraplusify.com) |
+| **AXIVO** | An upcoming technology brand. | Coming Soon |
+| **Tech Builderz** | A software development venture. | Coming Soon |
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ghaith200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghaith200&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdullah-ghaith/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/201018964256" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/abdullah.ghiath.3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/abdulla7_ghaith" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaith200&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-###
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on interesting projects, building useful products, and connecting with other developers.
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ghaith200.Ghaith200&"  />
+
+**Have an idea? Let's build something meaningful.**
+
+<a href="https://www.linkedin.com/in/abdullah-ghaith/">LinkedIn</a> ·
+<a href="https://github.com/Ghaith200">GitHub</a> ·
+<a href="https://wa.me/201018964256">WhatsApp</a>
+
 </div>
-
-###
-
-<h1 align="center">Hello👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Abdullah Ghaith from Egypt<br><br>- 🔭 I’m working as a Mobile App Developer <br>- 📚 I'm currently learning NodeJs backend development <br>- ⚡ In my free time I learn about different technologies</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="sourcetree logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo"  />
-</div>
-
-###
-### Status
-<a href="http://www.github.com/Ghaith200"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaith200&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
